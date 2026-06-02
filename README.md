@@ -15,4 +15,4 @@ This Power BI dashboard provides a comprehensive analysis of how Artificial Inte
 * **Data Modeling:** Star Schema (Fact and Dimension tables)
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](AI Dashboard.png)
+[Dashboard Preview](AI Dashboard.png)!
