@@ -14,3 +14,5 @@ This Power BI dashboard provides a comprehensive analysis of how Artificial Inte
 * **Data Transformation:** Power Query (Data cleaning, type casting, and handling missing values)
 * **Data Modeling:** Star Schema (Fact and Dimension tables)
 
+## 📷 Dashboard Preview
+![Dashboard Preview](AI Dashboard.png)
